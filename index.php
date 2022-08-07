@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Mailblaze Toolkit v1</title>
+    <title>Mailblaze Toolkit 1.0</title>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 
@@ -16,6 +16,17 @@
   </head>
   <body>
 
+  <!-- Container samples for reference (to be removed at production)
+  <div class="container-sm">100% wide until small breakpoint</div>
+  <div class="container-md">100% wide until medium breakpoint</div>
+  <div class="container-lg">100% wide until large breakpoint</div>
+  <div class="container-xl">100% wide until extra large breakpoint</div>
+  <div class="container-xxl">100% wide until extra extra large breakpoint</div>
     
+  <div class="container-fluid">
+  Fluid Container
+  </div>
+  -->
+
   </body>
 </html>
