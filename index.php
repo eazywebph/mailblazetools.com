@@ -91,8 +91,8 @@
             <li><a class="dropdown-item" href="#">Manage Profile</a></li>
             <li><a class="dropdown-item" href="#">Account Settings</a></li>
             <li><a class="dropdown-item" href="#">Payment</a></li><hr>
-            <li class="nav-item"><a class="nav-link" href="#">Settings&nbsp;<i class="bi bi-sliders"></i></a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Logout&nbsp;<i class="bi bi-box-arrow-right"></i></a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="bi bi-sliders"></i>&nbsp;Settings</a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="bi bi-box-arrow-right"></i>&nbsp;Logout</a></li>
           </ul>
         </li>
 
