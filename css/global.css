@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 1000px;
+}
+
+.nav {
+    --bs-nav-link-color: #ffffff;
+    --bs-nav-link-hover-color: #999999;
+}
+
+.dropdown-menu a {
+    color: #000000;
+}
