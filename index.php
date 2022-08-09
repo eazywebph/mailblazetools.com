@@ -71,23 +71,22 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Support</a>
-        </li>
-
-        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Docs</a>
         </li>
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-          <i class="bi bi-person-circle"></i>
+          <i class="bi bi-person-circle"></i>&nbsp; Jasmine Trias
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Jasmine Trias</a></li><hr>
+            <li><a class="dropdown-item" href="#">View Profile</a></li><hr>
             <li><a class="dropdown-item" href="#">Manage Profile</a></li>
             <li><a class="dropdown-item" href="#">Account Settings</a></li>
+            <li><a class="dropdown-item" href="#">Subscription</a></li>
             <li><a class="dropdown-item" href="#">Payment</a></li><hr>
+
             <li class="nav-item"><a class="nav-link" href="#"><i class="bi bi-sliders"></i>&nbsp;Settings</a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="bi bi-question-circle"></i>&nbsp;Help</a></li>
             <li class="nav-item"><a class="nav-link" href="#"><i class="bi bi-box-arrow-right"></i>&nbsp;Logout</a></li>
           </ul>
         </li>
@@ -99,8 +98,7 @@
     <!-- Navbar and Container div ends -->
 
     <div class="container">
-      <br>
-      <iframe src="https://control.mailblaze.com/backend/index.php/dashboard/index" height="1000px" width="100%" title="Iframe Example"></iframe>
+      
     </div>
  
 
