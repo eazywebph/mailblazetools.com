@@ -17,6 +17,22 @@ html, body {
     font-size: 0.9em;
 }
 
+.col-1 {
+    padding:0;
+    margin:0;
+    width:10px;
+}
+
+.text-muted {
+    font-size: 0.6em;
+    font-weight: 400;
+}
+
+textarea {
+    padding: 10px;
+    margin: 0;
+}
+
 .dropdown-menu a {
     color: #000000;
 }
